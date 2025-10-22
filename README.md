@@ -14,7 +14,6 @@ In particular:
   - **Upper Left / Upper Right**
   - **Lower Midline**
   - **Lower Left / Lower Right**
-- These landmarks are visualized at Landmark_figure.pdf.
 
 The index set includes:
 - A total of **282 selected landmark indices** (upper face 119 points, lower face 163 points)
@@ -22,8 +21,10 @@ The index set includes:
 
 ## 📁 File Contents
 
-- `fapos_landmark_indices.txt`:  
+- [`fapos_landmark_indices.txt`](./fapos_landmark_indices.txt):  
   Contains Python-style dictionary lists of landmark indices grouped by region.
+- [`Landmark_figure.pdf`](./Landmark_figure.pdf):  
+  Figure showing the anatomical regions and selected landmarks.
 
 ## 📖 Citation
 
